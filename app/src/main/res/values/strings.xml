@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quiz">Quiz</string>
+    <string name="initializing">Initializing...</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="na">NA</string>
+    <string name="your_last_score">Your Last Score</string>
+    <string name="total_questions">Total Questions</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="quiz_description">Quiz Description</string>
+    <string name="quiz_title">Quiz Title</string>
+    <string name="loading_quiz">Loading Quiz...</string>
+    <string name="question">Question</string>
+    <string name="_0">0</string>
+    <string name="_10">10</string>
+    <string name="fetching_data">Fetching Data</string>
+    <string name="option_button">Option Button</string>
+    <string name="next_question">Next Question</string>
+    <string name="go_to_home">Go To Home</string>
+    <string name="questions_missed">Questions Missed</string>
+    <string name="wrong_answers">Wrong Answers</string>
+    <string name="correct_answers">Correct Answers</string>
+    <string name="_100">100%</string>
+    <string name="results">Results</string>
+    <string name="view_quiz">View Quiz</string>
+</resources>
